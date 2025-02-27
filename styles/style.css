@@ -3,5 +3,5 @@ li > a {color:rgb(213, 140, 237) !important}
 .boton {background-color: blueviolet;}
 li > a {color: yellow;}
 .boton:hover{background-color: rgb(177, 78, 226);}
-.btn-btn-primary {background-color:rgb(204, 92, 222);}
-.btn-btn-primary:hover {background-color: rgb(254, 172, 255);}
+.btnLogin {background-color:rgb(204, 92, 222);}
+.btnLogin:hover {background-color: rgb(254, 172, 255);}
