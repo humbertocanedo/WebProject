@@ -30,3 +30,9 @@ password.addEventListener("keydown", (e) => {
         login();
     }
 });
+
+send.addEventListener("click", () =>{
+    CharacterData.value += "\n" +msg.value;
+    msg,value = "";
+})
+
